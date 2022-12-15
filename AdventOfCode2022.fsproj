@@ -1,0 +1,29 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="_2_1.fsx" />
+    <Content Include="Inputs\_1_1.txt" />
+    <Content Include="Inputs\_2_1.txt" />
+    <Content Include="Inputs\_3_1.txt" />
+    <Content Include="Inputs\_4_1.txt" />
+    <Content Include="Inputs\_5_1.txt" />
+    <Content Include="Inputs\_6_1.txt" />
+    <Content Include="Inputs\_7_2.txt" />
+    <Compile Include="_1_1.fs" />
+	  <Compile Include="_1_2.fs" />
+	  <Compile Include="_3_1.fs" />
+	  <Compile Include="_3_2.fs" />
+	  <Compile Include="_4_1.fs" />
+	  <Compile Include="_5_1.fs" />
+	  <Compile Include="_6_1.fs" />
+	  <Compile Include="_6_2.fs" />
+	  <Compile Include="_7_2.fs" />
+    <Compile Include="Program.fs" />
+  </ItemGroup>
+
+</Project>
