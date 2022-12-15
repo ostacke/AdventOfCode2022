@@ -13,7 +13,7 @@
     <Content Include="Inputs\_4_1.txt" />
     <Content Include="Inputs\_5_1.txt" />
     <Content Include="Inputs\_6_1.txt" />
-    <Content Include="Inputs\_7_2.txt" />
+    <Content Include="Inputs\_7_1.txt" />
     <Compile Include="_1_1.fs" />
 	  <Compile Include="_1_2.fs" />
 	  <Compile Include="_3_1.fs" />
@@ -22,6 +22,7 @@
 	  <Compile Include="_5_1.fs" />
 	  <Compile Include="_6_1.fs" />
 	  <Compile Include="_6_2.fs" />
+	  <Compile Include="_7_1.fs" />
 	  <Compile Include="_7_2.fs" />
     <Compile Include="Program.fs" />
   </ItemGroup>
